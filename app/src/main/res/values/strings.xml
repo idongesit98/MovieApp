@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FilmApp</string>
+    <string name="rating_star">Rating bar</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="language">Language: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="votes">Votes</string>
+    <string name="overview">"Overview: "</string>
+    <string name="home">Home</string>
+    <string name="trending">Trending Now</string>
+    <string name="favourites">Favourites</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="welcome">Welcome Idongesit</string>
+    <string name="placeholder">Search Movies</string>
+    <string name="search">Search</string>
+    <string name="latest">Latest Movies</string>
+    <string name="see_all">See all</string>
+    <string name="trending_movies">Trending Movies</string>
+    <string name="tvSeries">Tv Series</string>
+    <string name="recommended">Recommended Movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="special">Special</string>
+    <string name="now_airing">Now Showing\n</string>
+    <string name="rated_series">Rated Series</string>
+    <string name="top_movies">Top Movies\n</string>
+    <string name="popular_series">Popular Series</string>
+    <string name="hello">Hello Idongesit</string>
+</resources>
